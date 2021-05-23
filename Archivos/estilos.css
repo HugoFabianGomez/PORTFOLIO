@@ -7,16 +7,34 @@
         font-size: 100px;
         font-weight:bold;
     }
-
     h1{
-        color:chocolate;
-        font-size: 80px;
+        color: #3B1C03;
+        text-align: center;
+        font-size: 60px;
+        font-style: italic;
+    }
+    h3{
+        color: #130122;
+    }
+    h5{
+        color: #002F04;
+        font-size: 30px;
     }
     .Cont{
 
     }
     .profesorado{
-        font-size: 200px;
-
+        font-size: 20px;
     }
-    .
+
+    table tr td img{
+        width= 75px;
+        height= 50px;
+    }
+    footer table tr td{
+        width: 300px;
+        style=center;
+    }
+    img{
+        float: center;
+    }
